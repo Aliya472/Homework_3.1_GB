@@ -12,12 +12,12 @@
 ## Задача 3
  Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
 
-![Блок-схема](https://github.com/Aliya472/Homework_3.1_GB/blob/main/Example3/diagram3.png) | [Код](https://github.com/Aliya472/Homework_3.1_GB/blob/main/Example3/Program.cs)
+[Блок-схема](https://github.com/Aliya472/Homework_3.1_GB/blob/main/Example3/diagram3.png) | [Код](https://github.com/Aliya472/Homework_3.1_GB/blob/main/Example3/Program.cs)
 
 ## Задача 4
 
 Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
 
-![Блок-схема](https://github.com/Aliya472/Homework_3.1_GB/blob/main/Example4/diagram4.png) | [Код](https://github.com/Aliya472/Homework_3.1_GB/blob/main/Example4/Program.cs)
+[Блок-схема](https://github.com/Aliya472/Homework_3.1_GB/blob/main/Example4/diagram4.png) | [Код](https://github.com/Aliya472/Homework_3.1_GB/blob/main/Example4/Program.cs)
 
 
